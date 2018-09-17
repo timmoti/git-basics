@@ -27,3 +27,7 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
+
+`ADD` transfers the file with changes to the staging area.
+`COMMIT` transfers the file from staging to the Master branch of the local repository.
+`PUSH` syncs the local repository with the remote repository, provided the local repo is up to date on the changes in the remote repo.
